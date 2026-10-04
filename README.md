@@ -66,7 +66,9 @@ Os dados iniciais são inseridos automaticamente ao executar a aplicação e inc
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/bgarbero/DESAFIO-Modelo-de-dom-nio-e-ORM.git
+   git clone https://github.com/bgarbero/desafio-modelo-dominio-orm.git
+   cd desafio-modelo-dominio-orm/desafio
+   ./mvnw spring-boot:run
    ```
 
 2. Importe o projeto em sua IDE (Eclipse, IntelliJ, VS Code).
